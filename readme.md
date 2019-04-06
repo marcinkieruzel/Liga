@@ -5,7 +5,7 @@ W pliku `db/games.json` znajduje się baza danych ligi. Uruchom baze przy pomocu
 
 Twoim zadaniem jest pokazanie listy meczów na stronie. Mecze pobierz z bazy danych przy pomocy fetch lub axios.
 
-W następnym kroku uruchom funkcjonalność dodawania meczów.
+W następnym kroku uruchom funkcjonalność dodawania meczów. Pamiętaj żeby dodać je również bazy danych w pliku games.json
 
 #### Dla kozaków
 Stwórz na podstawie bazy tabelę punktów w formacie
