@@ -10,3 +10,4 @@ W następnym kroku uruchom funkcjonalność dodawania meczów. Pamiętaj żeby d
 #### Dla kozaków
 Stwórz na podstawie bazy tabelę punktów w formacie
 "Zespół" : "Punktacja"
+To zadanie wymaga sprawności w posługiwaniu się metodami tablicowymi – nasza baza danych wymaga odpowiednich przekształceń by wyekstraktować z niej punktację. Warto użyć tutaj biblioteki lodash.
