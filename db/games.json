@@ -1,0 +1,21 @@
+{
+	"games": [{
+			"home": "Legia Warszawa",
+			"homeScore": 2,
+			"guest": "Widzew Łódź",
+			"guestScore": 1
+		},
+		{
+			"home": "Jagielonia Białystok",
+			"homeScore": 2,
+			"guest": "Pelikan Łowicz",
+			"guestScore": 1
+		},
+		{
+			"home": "Lech Poznań",
+			"homeScore": 4,
+			"guest": "Szczakowianka Jaworzno",
+			"guestScore": 1
+		}
+	]
+}
